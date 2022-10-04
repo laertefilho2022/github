@@ -1,0 +1,1 @@
+console.log = ("relatorio de vendas!")
